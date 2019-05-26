@@ -1,0 +1,40 @@
+.news-box img{
+  width:100%;
+  margin-bottom: 3vw;
+}
+
+.news-box{
+  padding: 5% 18% 5% 18%;
+  margin: 0;
+  size: 40vw;
+}
+
+.news-box p{
+  text-align: justify;
+  font-size: 1.7vw;
+}
+
+.news-box button{
+  margin-bottom: 2vw;
+  font-size: 1.7vw;
+  padding: 1vw 1.4vw;
+  border-width: thin;
+}
+
+.load-more{
+  margin-left: 18%;
+}
+
+.upbox{
+  margin-top: 3%;
+  margin-left: 17%;
+  width: 65vw;
+}
+
+.selector{
+  width: 30vw;
+  margin-right: 0.5vw;
+}
+.searcher{
+  width: 30vw;
+}
